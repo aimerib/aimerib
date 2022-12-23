@@ -1361,7 +1361,7 @@ Personally, this solution works better for me, as I prefer to stay within flutte
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.19m out of 364m repositories</span>
+                                    <span class="gh">ranked 1.13m out of 364m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 15 stars</div>
                             </div>
@@ -1567,7 +1567,7 @@ Personally, this solution works better for me, as I prefer to stay within flutte
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Dec 2022, 22:02:44 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 22 Dec 2022, 23:02:54 (timezone America/New_York) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
