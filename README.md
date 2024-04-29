@@ -10,11 +10,7 @@
 
 - 👨‍💻 Some of my first projects are up on [https://www.slothcrew.com](https://www.slothcrew.com)
 
-- 📝 I sometimes write articles on [https://dev.to/aimerib](https://dev.to/aimerib)
-
 - 💬 Ask me about **rust, javascript, ruby, rails**
-
-- 📫 How to reach me **aimeri@baddouh.me**
 
 - ⚡ Fun fact **I'm American but grew up in Brazil**
 
