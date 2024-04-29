@@ -6,26 +6,12 @@
 
 <h4 align="left">Well, hello there. Please, come in, make yourself at home, and please don't mind the mess. I'm Aimeri</h4>
 
-- 🌱 I’m currently learning **SwiftUI, Hotwire, and Rust GUI programming.**
-
-- 👨‍💻 Some of my first projects are up on [https://www.slothcrew.com](https://www.slothcrew.com)
-
-- 💬 Ask me about **rust, javascript, ruby, rails**
-
-- ⚡ Fun fact **I'm American but grew up in Brazil**
-
 ###
 
 <h2 align="center">Stats</h1>
 <h3>Let's get down to the good stuff:</h3>
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=aimerib" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=aimerib" height="150" alt="languages graph"  />
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aimerib&" alt="aimerib" /></p>
-</div>
 
 ###
 
