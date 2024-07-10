@@ -578,6 +578,7 @@
                                 <g transform="translate(405, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -789,7 +790,7 @@ Personally, this solution works better for me, as I prefer to stay within flutte
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.67898699520875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="62.763860369609844 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1046,7 +1047,7 @@ Personally, this solution works better for me, as I prefer to stay within flutte
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 2.71m out of 208m repositories</span>
+                                    <span class="gh">ranked 2.71m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 3 times</div>
                             </div>
@@ -1147,7 +1148,7 @@ Personally, this solution works better for me, as I prefer to stay within flutte
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.43m out of 208m repositories</span>
+                                    <span class="gh">ranked 1.43m out of 205m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 16 stars</div>
                             </div>
@@ -1284,7 +1285,7 @@ Personally, this solution works better for me, as I prefer to stay within flutte
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2024, 08:14:34 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Jul 2024, 08:13:42 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
